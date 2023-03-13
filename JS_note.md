@@ -237,7 +237,7 @@ This are the basic ways of storing data inside our browser.
 - Local storage and session storage are very similar in many ways. They are only different in few instances.
 - Cookies are almost completely different from the two and are older.
 
-![session.PNG](Java%20Script%20Web%20e867d8e4c72a4f0b9a21d6500492d96e/session.png)
+![session.PNG](session.png)
 
 To store JSON in local storage or session storage first you create an object in your JavaScript code.
 
